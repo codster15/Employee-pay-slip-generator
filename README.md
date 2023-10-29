@@ -14,3 +14,4 @@
 👉 I'm always open to feedback, collaboration, and new opportunities. Let's connect and make the web a more beautiful and functional place together. 🌐✨ 💰💻
 
 #WebDevelopment #HTML #CSS #JavaScript #UserExperience #Innovation #Payroll
+![6](https://github.com/codster15/Employee-pay-slip-generator/assets/127374043/61b412ed-e75b-4c61-aa8c-967d9f52a0b5)
