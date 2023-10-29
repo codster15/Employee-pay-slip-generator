@@ -9,9 +9,9 @@
 
 💡 I'm passionate about creating innovative web applications that enhance user experiences, and this project is just one example of that commitment.
 
-🔗 You can check out the Employee Pay Slip Generator here: 
+🔗 You can check out the Employee Pay Slip Generator here:  https://codster15.github.io/Employee-pay-slip-generator/
 
 👉 I'm always open to feedback, collaboration, and new opportunities. Let's connect and make the web a more beautiful and functional place together. 🌐✨ 💰💻
-
+connect with me on linkedin -www.linkedin.com/in/codster-dev-9638b1205
 #WebDevelopment #HTML #CSS #JavaScript #UserExperience #Innovation #Payroll
 ![6](https://github.com/codster15/Employee-pay-slip-generator/assets/127374043/61b412ed-e75b-4c61-aa8c-967d9f52a0b5)
