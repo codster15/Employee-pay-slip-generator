@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="program.js"></script>
+</head>
+<body>
+    
+
+    <div class="bigContainer"> </div>
+
+ <div class="input">
+
+    <ul>
+        <li class="heading"> Employee Payslip Generator</li>
+        <li> Employee name  : <input type="text" id="empname"></li>
+        <li> Employee Age  : <input type="text" class="eage"></li>
+
+
+        <li> Employee Gender  : 
+
+               <input checked type="radio" name="gender" value="male"> male
+               <input type="radio" name="gender" value="female">  female
+
+
+        </li>
+
+
+
+        <li> Employee Department  : <input type="text" class="Department"></li>
+        <li> Employee Basic Salary  : <input type="text" class="basicSal"></li>
+
+
+
+        <li class="generate"> <input type="button" value="Generate Result" id="clickbutton" onclick="employeePaySlip.fetchUserData();"> </li>
+       
+    </ul>
+
+
+ </div>
+
+
+
+ <div class="centerCartoon">
+
+   
+ </div>
+
+
+<!-- show value on web page from java script -->
+ <div class="output">
+    <ul class="spancolor">
+        <li class="heading">Employee Pay Slip</li>
+
+        <li>Name = <span class="empname"></span></li>
+        <li>Age = <span class="empage"> </span></li>
+        <li>Gender = <span class="empgender"> </span></li>
+        <li>Department = <span class="empdepartment"> </span></li>
+        <li> Basic Salary= <span class="basicsalary"> </span></li>
+        <li>Your PF = <span class="emppf"> </span></li>
+        <li> Your HRA= <span class="emphra"> </span></li>
+        <li>Before Tax Salary = <span class="beforetax"> </span></li>
+        <li>Total Salary After Tax = <span class="aftertax"> </span></li>
+    </ul>
+
+
+    <!-- header -->
+ </div>
+<div class="div2"> </div>
+
+<div class="div3"> </div>
+ 
+
+<div class="header">
+
+
+
+</div>
+
+
+<!-- foooter -->
+<div class="footer">
+
+
+    <p class="p1"> copyright @ 2022 codesterDev, inc </p>
+
+    <div class="last"> <span class="s1">Legal Stuff  </span> <span>|</span>   <span class="s2">Privacy Policy   </span>  <span>|</span> <span class="s3"> Security</span> </div> 
+
+
+
+</div>
+
+
+</body>
+</html>
