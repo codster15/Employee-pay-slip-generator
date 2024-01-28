@@ -7,7 +7,7 @@
 
 🎨 But it's not just about functionality; it's about aesthetics too. I've poured my heart into the design, ensuring that the pay slip generator not only simplifies your work but also looks stunning in the process.
 
-💡 I'm passionate about creating innovative web applications that enhance user experiences, and this project is just one example of that commitment.
+💡 I'm passionate about creating innovative web applications that enhance user experiences, and this project is just one example of that commitment..
 
 🔗 You can check out the Employee Pay Slip Generator here:  https://codster15.github.io/Employee-pay-slip-generator/
 
